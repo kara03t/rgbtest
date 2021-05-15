@@ -1,1 +1,1 @@
-# rgbtest
+this is RGB test.
